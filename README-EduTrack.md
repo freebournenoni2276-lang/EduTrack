@@ -1,4 +1,4 @@
-# VS-Code-Projects
+# EduTrack
 EduTrack is a Python-based student reporting and analytics application designed to help educators organise student records, monitor academic performance and create reports. It brings grades, attendance and behaviour information into one interface, making it easier to review student progress and identify areas where additional support may be needed.
 
 Built with Streamlit, EduTrack allows users to add students, search records and explore academic information through an interactive dashboard. Its features include GPA calculations and class rankings, helping users assess individual performance alongside broader classroom trends. Attendance and behaviour tracking provide additional context beyond grades, supporting a more complete understanding of each student’s progress.
